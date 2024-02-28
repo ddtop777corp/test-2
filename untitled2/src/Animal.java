@@ -4,8 +4,6 @@ public class Animal {
         cat.print();
     }
 }
-//test git
-//test 2 git
 class Cat {
     String name;
     int age;
