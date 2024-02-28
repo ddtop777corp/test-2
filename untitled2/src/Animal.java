@@ -4,7 +4,6 @@ public class Animal {
         cat.print();
     }
 }
-
 class Cat {
     String name;
     int age;
