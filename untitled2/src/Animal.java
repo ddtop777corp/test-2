@@ -4,7 +4,6 @@ public class Animal {
         cat.print();
     }
 }
-
 class Cat {
     String name;
     int age;
@@ -14,6 +13,8 @@ class Cat {
         System.out.println(name + " " + age + " " + salary);
     }
 }
+
+//теперь тут
 
 interface CatBuilder {
     CatBuilder setName(String name);
