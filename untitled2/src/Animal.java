@@ -13,9 +13,7 @@ class Cat {
         System.out.println(name + " " + age + " " + salary);
     }
 }
-
-//теперь тут
-
+//test PR
 interface CatBuilder {
     CatBuilder setName(String name);
 
