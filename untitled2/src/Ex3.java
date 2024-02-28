@@ -9,6 +9,6 @@ public class Ex3 {
         Thread thread = new Thread(task);
         thread.start();
         thread.interrupt();
-
+//что-то
     }
 }
