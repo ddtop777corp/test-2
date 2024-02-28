@@ -16,8 +16,6 @@ class Cat {
     }
 }
 
-//теперь тут
-
 interface CatBuilder {
     CatBuilder setName(String name);
 
